@@ -32,3 +32,5 @@ TAILWIND CSS
 -> can use directly in html without using much custom css
 -> use breakpoint to create responsive layout
 
+
+FUSION STACK ME HOGA MT-2   (styling , dom , content) marks styling based milenge to uski prep kro
